@@ -39,6 +39,33 @@ h1, h2, h3{
     
 }
 
+.artist-card{
+   height: 600px;
+   width:400px;
+}
+.artist-card-2{
+    
+ }
+
+.artist-text{
+    padding:20px 100px 10px 100px;
+}
+.artist-text2{
+    padding:0px 50px 10px 50px;
+}
+
+
+
+.artist-head{
+    font-size: 50px;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+
+.caro-btn{
+    margin-top:25%;
+    margin-bottom:25%;
+}
 
 @media only screen and (max-width: 576px) {
   
@@ -57,10 +84,16 @@ h1, h2, h3{
     .main-header{
         margin-top:150px;
     }
+    .artist-text{
+        padding:20px 20px 10px 20px;
+    }
   }
   @media only screen and (max-width: 1200px) {
     .main-header{
         margin-top:100px;
+    }
+    .artist-text{
+        padding:20px 20px 10px 20px;
     }
     
   }
@@ -68,6 +101,9 @@ h1, h2, h3{
   @media only screen and (max-width: 1400px) {
     .main-header{
         margin-top:60px;
+    }
+    .artist-text{
+        padding:20px 20px 10px 20px;
     }
   }
 
@@ -102,3 +138,6 @@ h1, h2, h3{
     margin:auto;
 }
 
+.artist-name{
+    margin-top:20px;
+}
