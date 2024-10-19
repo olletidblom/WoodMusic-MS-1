@@ -57,61 +57,94 @@
     <header id="header" class="container section">
         <div class="row">
             <div class="col-12">
-                <img class="center about-logo"
-                    src="assets/images/image.png"
-                    alt="Logo">
+                <img class="center about-logo" src="assets/images/image.png" alt="Logo">
             </div>
 
-        </div>
-        <div class="row">
-            <div class="row col-12 col-xl-12 text-center text-xl-center">
-                <h1 class="display-2"></h1>
-            </div>
         </div>
     </header>
 
     <!--Main element to hold all key sections-->
 
     <main>
-        <div class="container text-center">
+        <div class="container text-center mt-0">
             <div class="row">
                 <div class="row col-12 col-xl-12 text-center">
-                    <h1 class="display-2">About Wood Music</h1>
+                    <h1 class="display-2">Contact</h1>
                 </div>
             </div>
-            <div class="row justify-content-center mb-4">
-                <div class="col-6 align-self-center textcenter mt-4">
-                    <p>Wood Music is a modern music management based in Stockholm, Sweden for
-                        artists, music producers, and songwriters. Strategic and creative
-                        thinking company with the love for pop, dance and hiphop in various sub
-                        genres.</p>
-    
+            <div class="row justify-content-center mb-4 text-center">
+                <div class="col-12 align-self-center textcenter mt-4">
+                    <h4>Email: naomi@woodmusic.se</h4>
                 </div>
             </div>
-
-            <div class="row">
-                <div class="col-12">
-                    <img class="center"
-                        src="https://static1.squarespace.com/static/5d88afe72268c83e4f3edb98/t/65f30d34c5c5594bb4803dee/1710427444715/naomi.jpg"
-                        alt="Naomi Wood">
+            <div class="row justify-content-center ">
+                <div class="col-12 text-center">
+                    <a href="https://www.instagram.com/woodmusic___/" target="_blank">
+                        <i class="fa-brands fa-instagram fa-2xl"></i>
+                    </a>
                 </div>
 
-            <div class="container text-center">
-                <div class="row">
-                    <div class="row col-12 col-xl-12 text-center text-xl-center">
-                        <h1 class="display-4">Naomi Wood</h1>
+                <div class="row mt-4 col-4 justify-content-center">
+                    <!-- Button to trigger modal -->
+                    <a href="#" class="btn btn-outline-info btn-lg" role="button" data-bs-toggle="modal"
+                        data-bs-target="#uploadFormModal">
+                        Submit Your Music
+                    </a>
+
+                    <!-- Modal Structure -->
+                    <div class="modal fade" id="uploadFormModal" tabindex="-1" aria-labelledby="uploadFormLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="uploadFormLabel">Submit Your Music</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                        aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <form id="musicUploadForm" action="/submit-music" method="post"
+                                        enctype="multipart/form-data">
+                                        <div class="mb-3">
+                                            <label for="name" class="form-label">Artist</label>
+                                            <input type="text" class="form-control" id="name" name="name" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="email" class="form-label">Your Email</label>
+                                            <input type="email" class="form-control" id="email" name="email" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="file" class="form-label">Upload Your Music</label>
+                                            <input type="file" class="form-control" id="file" name="file"
+                                                accept=".mp3,.wav" required>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Submit</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-6 align-self-center textcenter mt-4">
-                        <p>Naomi started her career early as an AnR at sony. 
-                            lots of text 
-                        </p>
-        
-                    </div>
-                </div>
-          
-        </div>
+
+
+                    <div class="row">
+                        <div class="col-12">
+
+                        </div>
+
+                        <div class="container text-center">
+                            <div class="row">
+                                <div class="row col-12 col-xl-12 text-center text-xl-center">
+                                    <h1 class="display-4"></h1>
+                                </div>
+                            </div>
+                            <div class="row justify-content-center">
+                                <div class="col-6 align-self-center textcenter mt-4">
+                                    <p>
+                                    </p>
+
+                                </div>
+                            </div>
+
+                        </div>
 
 
     </main>

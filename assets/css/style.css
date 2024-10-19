@@ -144,3 +144,40 @@ h1, h2, h3{
 .artist-name{
     margin-top:20px;
 }
+
+
+
+
+/* Style the modal content with a black background and white text */
+.modal-content {
+  background-color: black !important;
+  color: white !important;
+}
+
+/* Style the form inputs and buttons */
+.modal-content .form-control {
+  background-color: #333; /* Darker background for form fields */
+  color: white; /* White text inside input fields */
+  border: 1px solid #555; /* Subtle border */
+}
+
+/* Style the submit button */
+.modal-content .btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+/* Style input labels */
+.modal-content .form-label {
+  color: white !important;
+}
+
+/* Style modal header (title and close button) */
+.modal-header {
+  border-bottom: 1px solid #555; /* Optional: subtle border for separation */
+}
+
+/* Ensure close button is visible */
+.btn-close {
+  filter: invert(100%);
+}
