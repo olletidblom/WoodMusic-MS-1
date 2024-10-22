@@ -53,75 +53,65 @@ This makes it easier for people to get in touch, and easy to see if they think t
 ## Project Goals 
 
 ### User Goals
-- Finding a restaurant that offers a nice atmosphere and good food.
-- See a full menu with clear pricing.
-- Find information about the restaurant.
-- Find the location of the restaurant
+ - Easily find info about the roster,listen to their music and find their socials.
+ - Have an easy way to contact the manager.
+ - Submit and show your own music.
 
 ### Site Owner Goals
-- Increase in the number of customers.
-- Promote the bussines.
-- Provide a way for new and existing customers to contact the buissnes.
-- Provide essential information about the bussines to customers.
+- Find new people to work with.
+- An easy way for people to find out what and who im working with at the moment.
+- Provide a way to show you music in a way that always get listened to..
 
 ## User Experience
 
 ### Target Audience
-- People looking for a place to dine at
-- People looking to order take away
-- Groups of people looking for a place to carter a event
-- Small to medium wedding parties
+- Artists who's looking for a manager.
+- Other managers who wants to colab with the company.
+- Other managers who wants their artist to collab with our artists.
+- People who wants to find out more about the artists.
 
 ### User Requrements and Expectations
 
-- A simple and intuitive navigation system
-- Quickly and easily find relevant information
-- Links and functions that work as expected
-- Good presentation and a visually appealing design regardless of screen size
-- An easy way to contact the bussines
-- Simple content that the user can skim read
-- Accessibility
+- Easy to use website.
+- Minimalistic design.
+- Links to everything that is described.
+- Responsivness so the site looks good no matter what device the user is useing.
+- An easy way to contact the bussines.
 
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the restaurant is lokated
-2. As a first time user, I want to know the price range
-3. As a first time user, I want to know more about the restaurant
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+1. As a first time user, I want to quickly find the roster and their music.
+2. As a first time user, I want to find a way to contact the company.
+3. As a first time user, I want to be able to see where to company is located.
+
 
 #### Returning User
-5. As a returning user, I want to see the Sunday meal offer
-6. As a returnign user, I want to know the opening times
-7. As a returning user, I want to find a phone number to call for reservation
-8. As a returning user, I want to see the menu
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
-10. As a returning user, I want to find the restaurant on social media
-11. As a returning user, I want to know who is preparing the food
-12. As a returning user, I want to get directions to the restaurant
+1. As a returning user, I want to be able to read more about the roster and their story.
+2. As a returnign user, I want to send my music to the company.
+3. As a returning user, I want to find a phone number.
+4. As a returning user, I want to find the social links to the company and artists.
+
 
 #### Site Owner 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-14. As the site owner, I want users to get to know the restaurant 
-15. As the site owner, I want the users to be able to contact us
+1. As the site owner, I want users to get to know the roster and their music better.
+2. As the site owner, I want people to send their musis so i dont have to chase people on instagram.
+3. As the site owner, I want the users to be able to contact me.
 
 ## Design
 
 ### Design Choices
-The webpage was designed with the feeling a customer might get while dining at the restaurant. It is calm, warm and inviting. 
-Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
+The design of the website is simplistic, its easy to find everything and not to many menues to get lost in. 
+I originally had an ide for more content and visuals on the side, but after some thought i felt it was a bit to cluttery.
 
-### Colour
-For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+### Color
+The color scheme is very simple, with mostly black and white colors. I made it this way beacouse the company logo was black and white, and i thought it looked clean for everything else to follow in that line.
 <br>
-
-![Colour scheme](docs/features/color-palette.png)
 
 
 ### Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
-<br>
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+I used Montserrat for all fonts and sans-serif as a fallback becouse i think Montserrat makes everything looks really good.
+
 
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
@@ -135,19 +125,19 @@ The website consists of five separate pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/wireframes-homepage.png">
+<img src="assets/wireframe/Home.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/wireframes/wireframes-about.png">
+<img src="assets/wireframe/About.png">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/wireframes/wireframes-menu.png">
+<details><summary>Roster</summary>
+<img src="assets/wireframe/Artists copy.png">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframes-gallery.png">
+<details><summary>Artist</summary>
+<img src="assets/wireframe/Artists page.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/wireframes-contact.png">
+<img src="assets/wireframe/Contact.png">
 </details>
 
 ## Technologies Used
