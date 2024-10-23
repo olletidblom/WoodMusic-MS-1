@@ -153,22 +153,19 @@ The website consists of five separate pages:
 - Git
 - GitHub
 - Gitpod
-- Tinypng
-- Paint<span>.</span>NET
 - Balsamiq
 - Google Fonts
-- Adobe Color
 - Font Awsome
 - Favicon<span>.</span>io
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of four pages, two subpages and fourteen features
 
 ### Logo and Navigation Bar
-- Featured on all five pages
+- Featured on all pages
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
-links to the Homepage, About page, Menu page, Gallery and Contact us page
-- It allows users to easily navigate the page
+links to the Homepage, About page, Roster page and Contact page
+- It allows users to easily navigate the website
 - The link for the page the user is currently on is highlighted 
 
 ![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
@@ -184,7 +181,7 @@ links to the Homepage, About page, Menu page, Gallery and Contact us page
 - User stories covered: 13
 
 ![News](docs/features/feature-news.jpg)
-
+ 
 ### Meal-deal
 - Allowes users to see what meal-deal is available for the upcoming Sunday
 - User stories covered: 5
