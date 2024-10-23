@@ -165,53 +165,51 @@ The page consists of four pages, two subpages and fourteen features
 - Featured on all pages
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
 links to the Homepage, About page, Roster page and Contact page
-- It allows users to easily navigate the website
-- The link for the page the user is currently on is highlighted 
+- Allows users to easily navigate the website in a familliar way
+- Underscore the current selected page the user is on
 
-![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
+![Logo and navbar](assets/website-pic/Logo-Navbar.png)
 
-### Carousel
-- Introduces the user to the restaurant with a small three picture slide show
-- Options for the user to navigate the slide show via back and forward arrows or indicators at the bottom
+### About
+- Shows info about the company
 
-![Carousel](docs/features/feature-carousel.jpg)
+![About](assets/website-pic/about.png)
 
-### News
-- Allowes the user to see upcoming events or any news about the restaurant
-- User stories covered: 13
+### Roster
+- Allows the user to view the current roster at the company
+- All artist are clickeble to see more information
 
-![News](docs/features/feature-news.jpg)
+![Roster](assets/website-pic/artist-page.png)
  
-### Meal-deal
-- Allowes users to see what meal-deal is available for the upcoming Sunday
-- User stories covered: 5
+### Artist
+- Shows the user more information about the artist
+- A way to listen to the artist music
+- Allows the user the get direct links to the artists socials
 
-![Meal-deal](docs/features/feature-meal-deal.jpg)
+![Artist](assets/website-pic/artist-induvidual.png)
+
+### Spotify Carousel
+- Allows the user to listen to the artists music from the page
+- Consists of atleast 3 songs
+
+![Footer](assets/website-pic/spotify-carousel.png)
+
+### Social Links
+- Swaps the original footer for a footer with links to the artist
+
+![About Us](assets/website-pic/artist-links.png)
 
 ### Footer
-- Featured on all five pages
-- Consists of three seperate sections: contact information, opening times, and social media links
-- User stories covered: 1, 6, 7, 10, 15
+- Availeble on all main pages
+- Contains location, number and instagramlink to the company
 
-![Footer](docs/features/feature-footer.jpg)
+![Reviews](assets/website-pic/footer.png)
 
-### About Us
-- Gives a description of the restaurant and its facilities with a image of the front of the building on the right side
-- User stories covered: 3, 14
+### Get a face of the owner
+- Features a picture of the CEO of the company
+- Choose not to tell the users much about herself, only focusing on the company
 
-![About Us](docs/features/feature-about-us.jpg)
-
-### Customer reviews
-- Features a few reviews left by the restaurants customers on social media
-- User stories covered: 3
-
-![Reviews](docs/features/feature-reviews.jpg)
-
-### Meet the Chef
-- Features a short bio of the chef with an image of the chef on the left side
-- User stories covered: 11
-
-![Meet the Chef](docs/features/feature-meet-the-chef.jpg)
+![Meet the Chef](assets/website-pic/ceo.png)
 
 ### Menu 
 - Gives an overview of the menu in five sections: starters, main meals, kids meals, dessers, and wine.
