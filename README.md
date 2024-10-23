@@ -274,34 +274,28 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="docs/validation/lighthouse-performance-index.jpg">
+<img src="assets/lighthose/main.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/lighthouse-performance-about.jpg">
+<img src="assets/lighthose/about.png">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/validation/lighthouse-performance-menu.jpg">
+<details><summary>Roster</summary>
+<img src="assets/lighthose/roster.png">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/lighthouse-performance-gallery.jpg">
+<details><summary>Artists</summary>
+<img src="assets/lighthose/olivia.png">
+<img src="assets/lighthose/tuva.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/lighthouse-performance-contact.jpg">
+<img src="assets/lighthose/contact.png">
 </details>
 
-### Performing tests on various devices 
-The website was tested on the following devices:
-- Lenovo Yoga 2 Pro (both in pc and tablet mode)
-- Honor 20 pro
-- Xiaomi Redmi Note 7
-
-In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
-- Mozilla Firefox
-- Microsoft Egde
+- Safari
+
 
 ### Testing user stories
 
@@ -481,7 +475,7 @@ The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
+4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://olletidblom.github.io/WoodMusic-MS-1/"
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
