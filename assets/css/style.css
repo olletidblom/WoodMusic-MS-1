@@ -190,3 +190,7 @@ h1, h2, h3{
 }
 
 
+.contact-map iframe{
+    width:auto;
+    height:auto;
+}
