@@ -114,13 +114,15 @@ I used Montserrat for all fonts and sans-serif as a fallback becouse i think Mon
 
 
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
+With the minimalistic design its easy to feel at home. You quickly find your way around with
+a recogniseble interface.
 The website consists of five separate pages: 
-- A homepage with a sections for News and Sunday Meal Offers
-- An about page with the About Us and Meet the Chef
-- A menu page
-- A image gallery with images and video showcasing the general feel of the restaurant
-- A contact page with a contact form, a map and information about the bussines section
+- A homepage with the logo of the company
+- A about page that show some information about the company
+- A roster page that shows the companys artists
+- A page for each of the artists that contains information, previews their music and links 
+  to their socials. 
+- A contact page with mail, location and a form to submit your music.
 
 ### Wireframes
 
