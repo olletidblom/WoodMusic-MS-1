@@ -220,7 +220,6 @@ links to the Homepage, About page, Roster page and Contact page
 ### Map
 - Shows the restaurant location on an embeded Google Map
 
-
 ![Map](assets/website-pic/map.png)
 
 
@@ -229,19 +228,20 @@ links to the Homepage, About page, Roster page and Contact page
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-<img src="docs/validation/validation-html-index.jpg">
+<img src="assets/html-validation/Home.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/validation-html-about.jpg">
+<img src="assets/html-validation/About.png">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/validation/validation-html-menu.jpg">
+<details><summary>Roster</summary>
+<img src="assets/html-validation/Roster.png">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/validation-html-gallery.jpg">
+<details><summary>Artists</summary>
+<img src="assets/html-validation/Olivia.png">
+<img src="assets/html-validation/Tuva.png">
 </details>
-<details><summary>Home</summary>
-<img src="docs/validation/validation-html-contact.jpg">
+<details><summary>Contact</summary>
+<img src="assets/html-validation/Contact.png">
 </details>
 
 ### CSS Validation
