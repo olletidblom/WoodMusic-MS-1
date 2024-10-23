@@ -246,30 +246,28 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
-<details><summary>whole page</summary>
-<img src="docs/validation/validation-css-whole-page.jpg">
-</details>
+The style.css file was approved with just a few warnings.
 <details><summary>style.css</summary>
-<img src="docs/validation/validation-css-style.jpg">
+<img src="assets/css-validated/css validated.png">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="docs/validation/validation-accessibility-index.jpg">
+<img src="assets/accesablilty-validation/home.png">
 </details>
 <details><summary>About</summary>
-<img src="docs/validation/validation-accessibility-about.jpg">
+<img src="assets/accesablilty-validation/about.png">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/validation/validation-accessibility-menu.jpg">
+<details><summary>Roster</summary>
+<img src="assets/accesablilty-validation/roster.png">
 </details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/validation-accessibility-gallery.jpg">
+<details><summary>Artists</summary>
+<img src="assets/accesablilty-validation/olivia.png">
+<img src="assets/accesablilty-validation/tuva.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/validation-accessibility-contact.jpg">
+<img src="assets/accesablilty-validation/contact.png">
 </details>
 
 ### Performance 
