@@ -192,62 +192,37 @@ links to the Homepage, About page, Roster page and Contact page
 - Allows the user to listen to the artists music from the page
 - Consists of atleast 3 songs
 
-![Footer](assets/website-pic/spotify-carousel.png)
+![Spotify Carousel](assets/website-pic/spotify-carousel.png)
 
 ### Social Links
 - Swaps the original footer for a footer with links to the artist
 
-![About Us](assets/website-pic/artist-links.png)
+![Social Links](assets/website-pic/artist-links.png)
 
 ### Footer
 - Availeble on all main pages
 - Contains location, number and instagramlink to the company
 
-![Reviews](assets/website-pic/footer.png)
+![Footer](assets/website-pic/footer.png)
 
 ### Get a face of the owner
 - Features a picture of the CEO of the company
 - Choose not to tell the users much about herself, only focusing on the company
 
-![Meet the Chef](assets/website-pic/ceo.png)
+![See the owner](assets/website-pic/ceo.png)
 
-### Menu 
-- Gives an overview of the menu in five sections: starters, main meals, kids meals, dessers, and wine.
-- Each section of the menu is accompanied with an image of one of the items form the menu
-- Features pricing
-- User stories covered: 2, 8
+### Contact & Submit
+- Gives the user the email to the manager
+- A submit form for the user to send their music to the company
 
-![Menu](docs/features/feature-menu.jpg)
-
-### Image Gallery
-- Imagery of the restaurant arranged in a grid
-- User stories covered: 4
-
-![Gallery](docs/features/feature-gallery.jpg)
-
-### Promo Video
-- A YouTube video to promote the restaurant 
-- User stories covered: 4
-
-![Video](docs/features/feature-video.jpg)
-
-### Contact Form
-- A way for user to provide feedback
-- User stories covered: 9, 15
-
-![Contact Form](docs/features/feature-contact-form.jpg)
+![Contact & Submit](assets/website-pic/contact-submit.png)
 
 ### Map
 - Shows the restaurant location on an embeded Google Map
-- User stories covered: 1, 12
 
-![Map](docs/features/feature-map.jpg)
 
-### Info Box
-- Provides the user with information about the restaurant including addres, phone number, email, and the name of the owner
-- User stories covered: 7, 15
+![Map](assets/website-pic/map.png)
 
-![Info Box](docs/features/feature-info-box.jpg)
 
 ## Validation
 
