@@ -295,7 +295,30 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 The website was tested on the following browsers:
 - Google Chrome
 - Safari
+- Mozilla
 
+### Testing user stories
+
+1. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+
+2. As a first time user, I want to find a way to contact the company.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact | Navigate to the Contact page |See Mail and a submit form | Works as expected |
+| Footer | Navigate to the Footer| See Phonenumber, adress and instagram. | Works as expected |
+
+3. 3. As a first time user, I want to be able to see where to company is located..
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact | Navigate to the Contact page |See googlemaps pin | Works as expected |
+| Footer | Navigate to the Footer| See location and a link for google maps| Works as expected |
 
 
 
@@ -304,11 +327,10 @@ The website was tested on the following browsers:
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
-| The user can submit a contact form input without a message | Add required attribute to message input field |
-| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
-| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+| Roster picture take to long to buffer | Compressed the img with tinypng|
+| The Spotify carousel switched page when trying to hit play| Added height to the carousel button to make it smaller and not reach the play button|
+
+
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -328,7 +350,13 @@ You can clone the repository by following these steps:
 4. Open Git Bash
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7.Press Enter to create your local clone.
+7. Press Enter to create your local clone.
+
+### Code
+In order of apearance:
+- The HTML for the responsive [Navbar](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from the Bootstrap v5.0 documentation code snippet.
+- [Carousel](https://getbootstrap.com/docs/5.0/components/carousel/#with-indicators) on Roster page was taken from Bootrap v5.0 documentation code snippet and adjusted to fit for spotify.
+- Nearly everything is built with rows and columns from BootStrap.
 
 ## Credits
     All the media on this webpage has leaglly been provided by the company Wood Music.
