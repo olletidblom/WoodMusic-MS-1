@@ -1,9 +1,9 @@
 # Project Title
 *WoodMusic - A website for an artist manager*
 
-![Mockup image](assets/images/Screenshot%202024-10-21%20at%2016.30.32.png)
+![Mockup image](assets/images/website_pic/devices.png)
 
-[Live webpage](https://olletidblom.github.io/WoodMusic-MS-1/contact.html)
+[Live webpage](https://olletidblom.github.io/WoodMusic-MS-1/)
 ---
 
 
@@ -127,19 +127,19 @@ The website consists of five separate pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="assets/wireframe/Home.png">
+<img src="assets/wireframe/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/wireframe/About.png">
+<img src="assets/wireframe/about.png">
 </details>
 <details><summary>Roster</summary>
-<img src="assets/wireframe/Artists copy.png">
+<img src="assets/wireframe/roster.png">
 </details>
 <details><summary>Artist</summary>
-<img src="assets/wireframe/Artists page.png">
+<img src="assets/wireframe/artistpage.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/wireframe/Contact.png">
+<img src="assets/wireframe/contact.png">
 </details>
 
 ## Technologies Used
@@ -168,59 +168,59 @@ links to the Homepage, About page, Roster page and Contact page
 - Allows users to easily navigate the website in a familliar way
 - Underscore the current selected page the user is on
 
-![Logo and navbar](assets/website-pic/Logo-Navbar.png)
+![Logo and navbar](assets/images/website_pic/logo_navbar.png)
 
 ### About
 - Shows info about the company
 
-![About](assets/website-pic/about.png)
+![About](assets/images/website_pic/about.png)
 
 ### Roster
 - Allows the user to view the current roster at the company
 - All artist are clickeble to see more information
 
-![Roster](assets/website-pic/artist-page.png)
+![Roster](assets/images/website_pic/artist_page.png)
  
 ### Artist
 - Shows the user more information about the artist
 - A way to listen to the artist music
 - Allows the user the get direct links to the artists socials
 
-![Artist](assets/website-pic/artist-induvidual.png)
+![Artist](assets/images/website_pic/artist_induvidual.png)
 
 ### Spotify Carousel
 - Allows the user to listen to the artists music from the page
 - Consists of atleast 3 songs
 
-![Spotify Carousel](assets/website-pic/spotify-carousel.png)
+![Spotify Carousel](assets/images/website_pic/spotify_carousel.png)
 
 ### Social Links
 - Swaps the original footer for a footer with links to the artist
 
-![Social Links](assets/website-pic/artist-links.png)
+![Social Links](assets/images/website_pic/artist_links.png)
 
 ### Footer
 - Availeble on all main pages
 - Contains location, number and instagramlink to the company
 
-![Footer](assets/website-pic/footer.png)
+![Footer](assets/images/website_pic/footer.png)
 
 ### Get a face of the owner
 - Features a picture of the CEO of the company
 - Choose not to tell the users much about herself, only focusing on the company
 
-![See the owner](assets/website-pic/ceo.png)
+![See the owner](assets/images/website_pic/ceo.png)
 
 ### Contact & Submit
 - Gives the user the email to the manager
 - A submit form for the user to send their music to the company
 
-![Contact & Submit](assets/website-pic/contact-submit.png)
+![Contact & Submit](assets/images/website_pic/contact_submit.png)
 
 ### Map
 - Shows the restaurant location on an embeded Google Map
 
-![Map](assets/website-pic/map.png)
+![Map](assets/images/website_pic/map.png)
 
 
 ## Validation
@@ -228,66 +228,66 @@ links to the Homepage, About page, Roster page and Contact page
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-<img src="assets/html-validation/Home.png">
+<img src="assets/images/html_validation/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/html-validation/About.png">
+<img src="assets/images/html_validation/about.png">
 </details>
 <details><summary>Roster</summary>
-<img src="assets/html-validation/Roster.png">
+<img src="assets/images/html_validation/roster.png">
 </details>
 <details><summary>Artists</summary>
-<img src="assets/html-validation/Olivia.png">
-<img src="assets/html-validation/Tuva.png">
+<img src="assets/images/html_validation/olivia.png">
+<img src="assets/images/html_validation/tuva.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/html-validation/Contact.png">
+<img src="assets/images/html_validation/contact.png">
 </details>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 The style.css file was approved with just a few warnings.
 <details><summary>style.css</summary>
-<img src="assets/css-validated/css validated.png">
+<img src="assets/images/css_validation/css_validation.png">
 </details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="assets/accesablilty-validation/home.png">
+<img src="assets/images/accesability_validation/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/accesablilty-validation/about.png">
+<img src="assets/images/accesability_validation/about.png">
 </details>
 <details><summary>Roster</summary>
-<img src="assets/accesablilty-validation/roster.png">
+<img src="assets/images/accesability_validation/roster.png">
 </details>
 <details><summary>Artists</summary>
-<img src="assets/accesablilty-validation/olivia.png">
-<img src="assets/accesablilty-validation/tuva.png">
+<img src="assets/images/accesability_validation/olivia.png">
+<img src="assets/images/accesability_validation/tuva.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/accesablilty-validation/contact.png">
+<img src="assets/images/accesability_validation/contact.png">
 </details>
 
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="assets/lighthose/main.png">
+<img src="assets/images/lighthouse/main.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/lighthose/about.png">
+<img src="assets/images/lighthouse/about.png">
 </details>
 <details><summary>Roster</summary>
-<img src="assets/lighthose/roster.png">
+<img src="assets/images/lighthouse/roster.png">
 </details>
 <details><summary>Artists</summary>
-<img src="assets/lighthose/olivia.png">
-<img src="assets/lighthose/tuva.png">
+<img src="assets/images/lighthouse/olivia.png">
+<img src="assets/images/lighthouse/tuva.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/lighthose/contact.png">
+<img src="assets/images/lighthouse/contact.png">
 </details>
 
 
