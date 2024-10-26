@@ -127,19 +127,19 @@ The website consists of five separate pages:
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="assets/wireframe/home.png">
+<img src="assets/images/wireframe/home.png">
 </details>
 <details><summary>About</summary>
-<img src="assets/wireframe/about.png">
+<img src="assets/images/wireframe/about.png">
 </details>
 <details><summary>Roster</summary>
-<img src="assets/wireframe/roster.png">
+<img src="assets/images/wireframe/roster.png">
 </details>
 <details><summary>Artist</summary>
-<img src="assets/wireframe/artistpage.png">
+<img src="assets/images/wireframe/artistpage.png">
 </details>
 <details><summary>Contact</summary>
-<img src="assets/wireframe/contact.png">
+<img src="assets/images/wireframe/contact.png">
 </details>
 
 ## Technologies Used
