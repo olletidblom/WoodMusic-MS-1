@@ -87,16 +87,16 @@ This makes it easier for people to get in touch, and easy to see if they think t
 
 
 #### Returning User
-1. As a returning user, I want to be able to read more about the roster and their story.
-2. As a returnign user, I want to send my music to the company.
-3. As a returning user, I want to find a phone number.
-4. As a returning user, I want to find the social links to the company and artists.
+4. As a returning user, I want to be able to read more about the roster and their story.
+5. As a returnign user, I want to send my music to the company.
+6. As a returning user, I want to find a phone number.
+7. As a returning user, I want to find the social links to the company and artists.
 
 
 #### Site Owner 
-1. As the site owner, I want users to get to know the roster and their music better.
-2. As the site owner, I want people to send their musis so i dont have to chase people on instagram.
-3. As the site owner, I want the users to be able to contact me.
+8. As the site owner, I want users to get to know the roster and their music better.
+9. As the site owner, I want people to send their musis so i dont have to chase people on instagram.
+10. As the site owner, I want the users to be able to contact me.
 
 ## Design
 
@@ -167,6 +167,7 @@ The page consists of four pages, two subpages and fourteen features
 links to the Homepage, About page, Roster page and Contact page
 - Allows users to easily navigate the website in a familliar way
 - Underscore the current selected page the user is on
+- User story 1
 
 ![Logo and navbar](assets/images/website_pic/logo_navbar.png)
 
@@ -178,6 +179,7 @@ links to the Homepage, About page, Roster page and Contact page
 ### Roster
 - Allows the user to view the current roster at the company
 - All artist are clickeble to see more information
+- User stories 1, 4, 8
 
 ![Roster](assets/images/website_pic/artist_page.png)
  
@@ -185,23 +187,28 @@ links to the Homepage, About page, Roster page and Contact page
 - Shows the user more information about the artist
 - A way to listen to the artist music
 - Allows the user the get direct links to the artists socials
+- User stories 1, 4, 8 
 
 ![Artist](assets/images/website_pic/artist_induvidual.png)
 
 ### Spotify Carousel
 - Allows the user to listen to the artists music from the page
 - Consists of atleast 3 songs
+- User story 1,8
 
 ![Spotify Carousel](assets/images/website_pic/spotify_carousel.png)
 
 ### Social Links
 - Swaps the original footer for a footer with links to the artist
+- User Story 7
 
 ![Social Links](assets/images/website_pic/artist_links.png)
+
 
 ### Footer
 - Availeble on all main pages
 - Contains location, number and instagramlink to the company
+- User Stories 2,3,6,7,10
 
 ![Footer](assets/images/website_pic/footer.png)
 
@@ -214,11 +221,13 @@ links to the Homepage, About page, Roster page and Contact page
 ### Contact & Submit
 - Gives the user the email to the manager
 - A submit form for the user to send their music to the company
+- User stories 2, 5, 9
 
 ![Contact & Submit](assets/images/website_pic/contact_submit.png)
 
 ### Map
 - Shows the restaurant location on an embeded Google Map
+- User story 3
 
 ![Map](assets/images/website_pic/map.png)
 
@@ -305,6 +314,11 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
 
 2. As a first time user, I want to find a way to contact the company.
 
@@ -313,12 +327,99 @@ The website was tested on the following browsers:
 | Contact | Navigate to the Contact page |See Mail and a submit form | Works as expected |
 | Footer | Navigate to the Footer| See Phonenumber, adress and instagram. | Works as expected |
 
-3. 3. As a first time user, I want to be able to see where to company is located..
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+3. As a first time user, I want to be able to see where to company is located..
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact | Navigate to the Contact page |See googlemaps pin | Works as expected |
 | Footer | Navigate to the Footer| See location and a link for google maps| Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+4. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+5. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+6. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+7. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+8. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+9. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
+
+10. As a first time user, I want to quickly find the roster and their music.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1v1-12.jpg">
+<img src="docs/user-story-testing/user-story-1v2.jpg">
+</details>
 
 
 
