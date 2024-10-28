@@ -315,9 +315,9 @@ The website was tested on the following browsers:
 | Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/1_1 .png">
-<img src="assets/images/user_stores/1_2 .png">
-<img src="assets/images/user_stores/1_3 .png">
+<img src="assets/images/user_stores/1_1.png">
+<img src="assets/images/user_stores/1_2.png">
+<img src="assets/images/user_stores/1_3.png">
 </details>
 
 
@@ -329,9 +329,9 @@ The website was tested on the following browsers:
 | Footer | Navigate to the Footer| See Phonenumber, adress and instagram. | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/2_1 .png">
-<img src="assets/images/user_stores/2_2 .png">
-<img src="assets/images/user_stores/2_3 .png">
+<img src="assets/images/user_stores/2_1.png">
+<img src="assets/images/user_stores/2_2.png">
+<img src="assets/images/user_stores/2_3.png">
 </details>
 
 3. As a first time user, I want to be able to see where to company is located.
@@ -342,9 +342,9 @@ The website was tested on the following browsers:
 | Footer | Navigate to the Footer| See location and a link for google maps| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/3_1 .png">
-<img src="assets/images/user_stores/3_2 .png">
-<img src="assets/images/user_stores/3_3 .png">
+<img src="assets/images/user_stores/3_1.png">
+<img src="assets/images/user_stores/3_2.png">
+<img src="assets/images/user_stores/3_3.png">
 </details>
 
 4. As a returning user, I want to be able to read more about the roster and their story.
@@ -354,9 +354,9 @@ The website was tested on the following browsers:
 | Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/1_1 .png">
-<img src="assets/images/user_stores/1_2 .png">
-<img src="assets/images/user_stores/1_3 .png">
+<img src="assets/images/user_stores/1_1.png">
+<img src="assets/images/user_stores/1_2.png">
+<img src="assets/images/user_stores/1_3.png">
 </details>
 
 5. As a returnign user, I want to send my music to the company.
@@ -366,8 +366,8 @@ The website was tested on the following browsers:
 | Contact | Navigate to the Contact page, click on an "Submit your music" | Opens a form to send your music | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/3_1 .png">
-<img src="assets/images/user_stores/3_2 .png">
+<img src="assets/images/user_stores/3_1.png">
+<img src="assets/images/user_stores/3_2.png">
 </details>
 
 6. As a returning user, I want to find a phone number.
@@ -388,11 +388,11 @@ The website was tested on the following browsers:
 | Footer | Navigate to the Footer on any page exept artists page, click on instagram symbol.| Opens link in new tab | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/1_1 .png">
-<img src="assets/images/user_stores/1_2 .png">
-<img src="assets/images/user_stores/7_3 .png">
-<img src="assets/images/user_stores/7_4 .png">
-<img src="assets/images/user_stores/7_5 .png">
+<img src="assets/images/user_stores/1_1.png">
+<img src="assets/images/user_stores/1_2.png">
+<img src="assets/images/user_stores/7_3.png">
+<img src="assets/images/user_stores/7_4.png">
+<img src="assets/images/user_stores/7_5.png">
 </details>
 
 8. As the site owner, I want users to get to know the roster and their music better.
@@ -402,9 +402,9 @@ The website was tested on the following browsers:
 | Roster | Navigate to the Roster page, click on an artist | Showing artists story and preview of their music | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/1_1 .png">
-<img src="assets/images/user_stores/1_2 .png">
-<img src="assets/images/user_stores/1_3 .png">
+<img src="assets/images/user_stores/1_1.png">
+<img src="assets/images/user_stores/1_2.png">
+<img src="assets/images/user_stores/1_3.png">
 </details>
 
 9. As the site owner, I Want people to send their music so i dont have to chase people on instagram.
@@ -414,8 +414,8 @@ The website was tested on the following browsers:
 
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/3_1 .png">
-<img src="assets/images/user_stores/3_2 .png">
+<img src="assets/images/user_stores/3_1.png">
+<img src="assets/images/user_stores/3_2.png">
 </details>
 
 10. As the site owner, I want the users to be able to contact me.
@@ -426,9 +426,9 @@ The website was tested on the following browsers:
 | Footer | Navigate to the Footer| See Phonenumber, adress and instagram. | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="assets/images/user_stores/2_1 .png">
-<img src="assets/images/user_stores/2_2 .png">
-<img src="assets/images/user_stores/2_3 .png">
+<img src="assets/images/user_stores/2_1.png">
+<img src="assets/images/user_stores/2_2.png">
+<img src="assets/images/user_stores/2_3.png">
 </details>
 
 
