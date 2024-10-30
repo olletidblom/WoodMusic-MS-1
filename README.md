@@ -97,6 +97,7 @@ This makes it easier for people to get in touch, and easy to see if they think t
 8. As the site owner, I want users to get to know the roster and their music better.
 9. As the site owner, I want people to send their musis so i dont have to chase people on instagram.
 10. As the site owner, I want the users to be able to contact me.
+11. As the site owner, I want people to have an easy way to get back to the page if they accedently write a wrong url (404page).
 
 ## Design
 
@@ -140,6 +141,9 @@ The website consists of five separate pages:
 </details>
 <details><summary>Contact</summary>
 <img src="assets/images/wireframe/contact.png">
+</details>
+<details><summary>404</summary>
+<img src="assets/images/wireframe/404.png">
 </details>
 
 ## Technologies Used
@@ -230,6 +234,12 @@ links to the Homepage, About page, Roster page and Contact page
 - User story 3
 
 ![Map](assets/images/website_pic/map.png)
+
+### 404
+- If something foes wrong its an easy way back to the mainpage. 
+- User story 11
+
+![Map](assets/images/website_pic/404.png)
 
 
 ## Validation
@@ -429,6 +439,18 @@ The website was tested on the following browsers:
 <img src="assets/images/user_stores/2_1.png">
 <img src="assets/images/user_stores/2_2.png">
 <img src="assets/images/user_stores/2_3.png">
+</details>
+
+11. As the site owner, I want people to have an easy way to get back to the page if they accedently write a wrong url (404page)
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 | Write a 1 after the "html" in the browser and press enter.| See 404 page |Works as expected|
+
+
+<details><summary>Screenshots</summary>
+<img src="assets/images/user_stores/11_1.png">
+<img src="assets/images/website_pic/404.png">
 </details>
 
 
